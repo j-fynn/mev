@@ -1,2 +1,2 @@
 # solana-bot
-Is it mev? idc (my code usually does not work)
+Is it mev? idc! most of my code does not work. 
